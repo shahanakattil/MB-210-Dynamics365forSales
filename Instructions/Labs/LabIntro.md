@@ -24,10 +24,4 @@ For convenience, you can open the lab guide in a separate window by selecting th
  
    ![Access Your VM and Lab Guide](../media/8.png)
  
-## **Managing Your Virtual Machine**
- 
-Feel free to start, stop, or restart your virtual machine as needed from the **Resources** tab. Your experience is in your hands!
-
-   ![Access Your VM and Lab Guide](../media/3.png)
-
 Now you're all set to explore the powerful world of technology. Feel free to reach out if you have any questions along the way. Enjoy your workshop!
