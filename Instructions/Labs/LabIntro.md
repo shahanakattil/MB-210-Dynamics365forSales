@@ -1,6 +1,6 @@
 # **Getting Started with Your MB-210: Dynamics365forSales Workshop**
  
-Welcome to your MB-210-Dynamics365forSales workshop! We've prepared a seamless environment for you to explore and learn about Azure services. Let's begin by making the most of this experience:
+Welcome to your MB-210-Dynamics365forSales workshop! We've prepared a seamless environment for you to explore and learn about Dynamics 365. Let's begin by making the most of this experience:
  
 ## **Accessing Your Lab Environment**
  
